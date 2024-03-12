@@ -22,7 +22,9 @@ One of the biggest challenges of this project is finding adequate data. Conceptu
 - data on household or individual characteristics that may influence demand, e.g: 
     - household size
     - population composition
+        - households with young families are going to be quite different than ones with old people
 - Food conversion table, which allows us to map quantities of food into nutritional outcomes
+    - we're not going to be using RDIs, but will be doing a different type of analysis with the nutrients, so might not be using the same dataframe generation style as in Project 2. 
 
 ## Deliverables 
 
