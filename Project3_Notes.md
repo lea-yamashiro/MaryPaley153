@@ -34,6 +34,8 @@ One of the biggest challenges of this project is finding adequate data. Conceptu
 - Probably most important decision we make
 - Lots of different populations that are interesting, but only a few populations have data that can support a careful demand analysis.
 - Ligon will provide some "curated" datasets that we can use, but we're welcome to find our own
+We'll be using data from the WORLD BANK!!
+- there's a massive amount of Living Standards Measurement Surveys that the WB does, that we can use and work with
 
 **[A.2] Estimate Demand System**
 - Estimate a system of demands for different kinds of food
@@ -42,7 +44,7 @@ One of the biggest challenges of this project is finding adequate data. Conceptu
 ### B Deliverables
 
 **[B.1] Nutritional content of different foods** 
-For all foods we're considering, need to: 
+For all foods we're considering, (for food conversion table discussed before) need to: 
 - describe their nutritional content of food
 - describe nutritional in terms that allow us to compare with recommended daily allowances
 - Note: they'll provide pointers to US Govt. recommendations, but many countries have their own recommendations, which might be better suited to their populations.
