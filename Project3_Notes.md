@@ -33,6 +33,7 @@ One of the biggest challenges of this project is finding adequate data. Conceptu
 **[A.1] Choice of population with associated expenditure data** 
 - Probably most important decision we make
 - Lots of different populations that are interesting, but only a few populations have data that can support a careful demand analysis.
+- We want to try to capture the variation of expenditures ACROSS populations. 
 - Ligon will provide some "curated" datasets that we can use, but we're welcome to find our own
 We'll be using data from the WORLD BANK!!
 - there's a massive amount of Living Standards Measurement Surveys that the WB does, that we can use and work with
@@ -54,6 +55,8 @@ Given the food actually consumed in the data,
 - what can you say about the adequacy of the diets in the population of interest?
 - what proportion of households consume enough so that members will exceed or meet dietary recommendations?
 - what proportion do not meet these recommendations?
+- indexed by food, columns by type of nutrient, like in Project 2
+    - except, it needs to be adjusted for the given population... 
 
 ### C Deliverables
 
