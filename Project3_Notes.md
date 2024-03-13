@@ -41,30 +41,39 @@ We'll be using data from the WORLD BANK!!
 **[A.2] Estimate Demand System**
 - Estimate a system of demands for different kinds of food
 - Characterize how consumption varies with household need
+- Can draw inferences into how changes in household composition influences demand
+** MAIN POINT: How do households, depending on composition, value food?**
+
+**[A.3] Presentation**
+Self-explanatory, same as Projects 1 and 2.
 
 ### B Deliverables
 
-**[B.1] Nutritional content of different foods** 
+**[B.1] Nutritional content of different foods (table)** 
 For all foods we're considering, (for food conversion table discussed before) need to: 
 - describe their nutritional content of food
 - describe nutritional in terms that allow us to compare with recommended daily allowances
 - Note: they'll provide pointers to US Govt. recommendations, but many countries have their own recommendations, which might be better suited to their populations.
+- indexed by food, columns by type of nutrient, like in Project 2
+    - except, it needs to be adjusted for the given population... 
 
 **[B.2] Nutritional adequacy of diet** 
-Given the food actually consumed in the data, 
+Given the food actually consumed in the data, **this** is where we use the RDIs, like in project 2
 - what can you say about the adequacy of the diets in the population of interest?
 - what proportion of households consume enough so that members will exceed or meet dietary recommendations?
 - what proportion do not meet these recommendations?
-- indexed by food, columns by type of nutrient, like in Project 2
-    - except, it needs to be adjusted for the given population... 
+
 
 ### C Deliverables
 
 **[C.1] Counterfactual Experiments**
+Once we have our demand system, we can do counterfactual experiments. 
+The populations we have data on consumed the given foods with given income levels and household consumption. 
 If everyone's total food expenditures doubled (holding prices fixed): 
 - how would this affect nutrition in the population?
 - what if relative food prices changed?
-- think of other counterfactual experiments that might be interesting. 
+- think of other counterfactual experiments that might be interesting.
+Doing the work necessary to describe a whole bunch of demand curves that might be related to questions having to do with policy (this is the big payoff, when trying to think about the "usefulness of Economics" in influencing basic needs in our society). 
 
 
 
